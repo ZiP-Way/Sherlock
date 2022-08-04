@@ -1,0 +1,15 @@
+/Temp
+/Library
+/obj
+/.vs
+_Builds/
+.gradle/
+/.idea
+/*.csproj
+/*.sln
+*.userprefs
+/Logs
+Logs/Packages-Update.log
+Assets/_Code/Editor/RemoteSettings/link.xml.meta
+UserSettings/EditorUserSettings.asset
+/*.apk
